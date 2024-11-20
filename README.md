@@ -1,6 +1,8 @@
 # KiselOS
 KiselOS is a simple Computercraft operating system
 
+I will be very happy if someone wants to help with the development! Please write to Telegram @Kisel130
+
 **Main functions**
 
  - (Work In Progress) Quick installer
