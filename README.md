@@ -3,7 +3,7 @@ KiselOS is a simple Computercraft operating system
 
 **Main functions**
 
- - Quick installer
+ - (Work In Progress) Quick installer
  - Run on the computer screen, or auto monitor search
  - Running programs from the /Programs/ folder
  - Opening Shell, or Lua console
